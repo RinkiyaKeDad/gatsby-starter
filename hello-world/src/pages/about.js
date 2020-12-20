@@ -4,7 +4,7 @@ import Header from "../components/header"
 function about() {
   return (
     <div>
-      <Header headerText="YOLO mates" />
+      <Header headerText="About Page" />
     </div>
   )
 }
